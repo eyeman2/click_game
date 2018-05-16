@@ -1,0 +1,15 @@
+.imgs{
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    height: 200px;
+    width: 170px;
+    border-color: lightslategray;
+    /* box-shadow: 30px */
+  }
+  .show{
+    display: inline-block;
+    margin-bottom: 45px;
+    /* margin-left: 15px */
+  }
+ 

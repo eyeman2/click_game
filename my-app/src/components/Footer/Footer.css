@@ -1,0 +1,11 @@
+footer{
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background:blueviolet;
+    height: 50px;
+    text-align: center;
+    /* margin-top: 20px */
+  }
+  
